@@ -26,9 +26,9 @@ nav {
 }
 
 .logo a:link,
-a:visited,
-a:hover,
-a:active {
+.logo a:visited,
+.logo a:hover,
+.logo a:active {
   text-decoration: none;
   color: inherit;
 }
@@ -77,6 +77,7 @@ a:active {
   /* height: 50px; */
   color: #7f8cff;
   flex-direction: column;
+
   /* margin-top: 15px; */
   justify-content: space-between;
 }
@@ -86,16 +87,16 @@ a:active {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
-  margin-top: 0px;
+  margin-top: 0;
   margin-bottom: 10px;
 }
 
 ul {
   display: flex;
   list-style-type: none;
-  padding-left: 0px;
+  padding-left: 0;
   align-items: baseline;
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 li {
