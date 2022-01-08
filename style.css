@@ -48,7 +48,6 @@ nav {
   flex-direction: column;
   height: 587px;
   background-image: url(images/header-shapes\ mobile.svg);
-  border-bottom-left-radius: 30px;
 }
 
 .box {
@@ -220,7 +219,7 @@ li {
   font-family: "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 20px;
   font-weight: 500;
-  color: #000000;
+  color: #000;
   line-height: 24px;
 }
 
